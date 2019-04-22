@@ -2,8 +2,8 @@
 nodejs - mysql-crud con materialize 
 
 ![Alt text](nodejs-mongo-materialize-crud.jpg)
-![Alt text](nodejs-mongo-materialize-crud2.png)
-![Alt text](nodejs-mongo-materialize-crud3.png)
+![Alt text](nodejs-mysql-materialize.png)
+![Alt text](nodejs-mysql-materialize2.png)
 
 
 NODEJS - MYSQL-CRUD CON MATERIALIZE -IMAGEN DE FONDO Y SISTEMA DE BUSQUEDA POR NOMBRE O PARTE DE EL.
