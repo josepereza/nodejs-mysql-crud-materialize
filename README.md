@@ -2,7 +2,7 @@
 nodejs - mysql-crud con materialize 
 
 ![Alt text](nodejs-mongo-materialize-crud.jpg)
-![Alt text](nodejs-mysql-materialize.png)
+![Alt text](nodjs-mysql-materialize.png)
 ![Alt text](nodejs-mysql-materialize2.png)
 
 
