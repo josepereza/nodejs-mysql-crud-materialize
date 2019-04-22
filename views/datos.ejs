@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<% include partials/head %>
+<body>
+        <% include partials/header %>
+<div class="container center-align">
+<br><br><br>
+
+
+  <div class="row">
+        <div class="col s12 m6 offset-m3">
+          <div class="card blue darken-1">
+            <div class="card-content white-text">
+              <span class="card-title">Registrar</span>
+              <form action="/datos" method="POST">
+                <input type="text" placeholder="Nome" name="name">
+                <input type="text" placeholder="Address" name="address">
+                <input type="text" placeholder="Phone" name="phone">
+                <br />
+                <button class="waves-effect waves-light btn" type="submit">Incluir</button>
+                <a class="waves-effect waves-light btn" href="/show" class="button">Todos</a>
+            </form>
+            </div>
+            <div class="card-action">
+              <a href="#">This is a link</a>
+              <a href="#">This is a link</a>
+            </div>
+          </div>
+        </div>
+      </div>
+               
+                    
+               
+</div>
+<% include partials/foot %>
+</body>
+</html>
